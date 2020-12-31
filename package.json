@@ -1,6 +1,6 @@
 {
   "name": "@josephuspaye/open-private",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Open a URL in private mode in your default browser from the command line on Windows",
   "main": "dist/main.js",
   "repository": "https://github.com/JosephusPaye/open-private.git",
